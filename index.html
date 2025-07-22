@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Flood & Weather Advisory Dashboard</title>
-  <meta http-equiv="refresh" content="3600" />
   <style>
     body { font-family: Arial; background: #f3f7fa; color: #333; margin: 0; padding: 1rem; }
     h1 { text-align: center; color: #005288; }
@@ -16,7 +15,7 @@
 </head>
 <body>
   <h1>🌧️ Flood & Weather Advisory Dashboard</h1>
-  <p style="text-align:center">Auto-refreshes every hour • Source: Official Facebook Pages</p>
+  <p style="text-align:center">Source: Official Facebook Pages</p>
   <div class="grid">
     <div class="card"><strong>Manila:</strong><br><a href="https://www.facebook.com/ManilaPIO" target="_blank">Manila PIO</a></div>
     <div class="card"><strong>Pasig:</strong><br><a href="https://www.facebook.com/PasigCityDRRMO" target="_blank">Pasig City DRRMO</a></div>
