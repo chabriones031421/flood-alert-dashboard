@@ -28,6 +28,13 @@
     <div class="card"><strong>Parañaque:</strong><br><a href="https://www.facebook.com/CityOfParanaqueOfficial" target="_blank">Parañaque City Official</a></div>
     <div class="card"><strong>Muntinlupa:</strong><br><a href="https://www.facebook.com/officialMuntinlupacity/" target="_blank">Muntinlupa City Official</a></div>
     <div class="card"><strong>Marikina:</strong><br><a href="https://www.facebook.com/MarikinaPIO/" target="_blank">Marikina PIO</a></div>
+    <div class="card"><strong>Las Piñas:</strong><br><a href="https://www.facebook.com/cityoflaspinasofficial/" target="_blank">Las Piñas Official</a></div>
+    <div class="card"><strong>Caloocan:</strong><br><a href="https://www.facebook.com/caloocan.pio" target="_blank">Caloocan PIO</a></div>
+    <div class="card"><strong>Navotas:</strong><br><a href="https://www.facebook.com/navotenoako/" target="_blank">Navoteño Ako</a></div>
+    <div class="card"><strong>Malabon:</strong><br><a href="https://www.facebook.com/MalabonCityGov/" target="_blank">Malabon City Gov</a></div>
+    <div class="card"><strong>Mandaluyong:</strong><br><a href="https://www.facebook.com/MandaluyongPIO/" target="_blank">Mandaluyong PIO</a></div>
+    <div class="card"><strong>San Mateo (Rizal):</strong><br><a href="https://www.facebook.com/sanmateorizalPIO/" target="_blank">San Mateo PIO</a></div>
+    <div class="card"><strong>Cainta:</strong><br><a href="https://www.facebook.com/onecainta.onecainta/" target="_blank">Cainta Official</a></div>
     <div class="card"><strong>Cavite:</strong><br><a href="https://www.facebook.com/pgcdrrmc" target="_blank">Cavite PG‑CDRRMC</a></div>
     <div class="card"><strong>Bulacan:</strong><br><a href="https://www.facebook.com/BulacanPDRRMO" target="_blank">Bulacan PDRRMO</a></div>
   </div>
